@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- DJ Headband Arc -->
+    <path
+        android:pathData="M33,56 C33,40 42,28 54,28 C66,28 75,40 75,56"
+        android:strokeWidth="3.5"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Headphone Cushion Bands -->
+    <path
+        android:pathData="M43,31 C46,29.5 50,29 54,29 C58,29 62,29.5 65,31"
+        android:strokeWidth="5"
+        android:strokeColor="#FF9F1C"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Left Ear Cup -->
+    <path
+        android:pathData="M29,52 L35,52 C36.5,52 37.5,53.5 37.5,55 L37.5,69 C37.5,70.5 36.5,72 35,72 L29,72 C27.5,72 26.5,70.5 26.5,69 L26.5,55 C26.5,53.5 27.5,52 29,52 Z"
+        android:fillColor="#00F0FF" />
+
+    <!-- Right Ear Cup -->
+    <path
+        android:pathData="M73,52 L79,52 C80.5,52 81.5,53.5 81.5,55 L81.5,69 C81.5,70.5 80.5,72 79,72 L73,72 C71.5,72 70.5,70.5 70.5,69 L70.5,55 C70.5,53.5 71.5,52 73,52 Z"
+        android:fillColor="#00F0FF" />
+
+    <!-- Studio EQ Bars / Soundwave Columns in Center -->
+    <!-- Bar 1 (Sub-bass) -->
+    <path
+        android:pathData="M43,68 L43,58"
+        android:strokeWidth="2.8"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M43,54 L43,51"
+        android:strokeWidth="2.8"
+        android:strokeColor="#FF9F1C"
+        android:strokeLineCap="round" />
+
+    <!-- Bar 2 (Low Mid) -->
+    <path
+        android:pathData="M48.5,71 L48.5,53"
+        android:strokeWidth="2.8"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M48.5,49 L48.5,43"
+        android:strokeWidth="2.8"
+        android:strokeColor="#FF9F1C"
+        android:strokeLineCap="round" />
+
+    <!-- Bar 3 (Mid Center Peak) -->
+    <path
+        android:pathData="M54,73 L54,48"
+        android:strokeWidth="3.2"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M54,44 L54,37"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FF9F1C"
+        android:strokeLineCap="round" />
+
+    <!-- Bar 4 (High Mid) -->
+    <path
+        android:pathData="M59.5,71 L59.5,55"
+        android:strokeWidth="2.8"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M59.5,51 L59.5,45"
+        android:strokeWidth="2.8"
+        android:strokeColor="#FF9F1C"
+        android:strokeLineCap="round" />
+
+    <!-- Bar 5 (Treble) -->
+    <path
+        android:pathData="M65,68 L65,60"
+        android:strokeWidth="2.8"
+        android:strokeColor="#00F0FF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M65,56 L65,53"
+        android:strokeWidth="2.8"
+        android:strokeColor="#FF9F1C"
+        android:strokeLineCap="round" />
+
+    <!-- Studio Meter Baseline -->
+    <path
+        android:pathData="M40,78 L68,78"
+        android:strokeWidth="2"
+        android:strokeColor="#253552"
+        android:strokeLineCap="round" />
+
+</vector>
